@@ -1,7 +1,7 @@
     h1{text-align:center; color:#C0392B;
     padding-top:70px;font-size: 50px;}
     
-    body{background-color: #d6dbdf; font-size:20px;}
+    body{background-color: #F4F6F6; font-size:20px;}
 
     .indexpage1{ 
         display: flex;
@@ -31,13 +31,13 @@
         text-align: center;
         color:#C0392B;}
     
-    tr {background-color: #EAE3D2;}
+    tr {background-color: #F4F6F6;}
     
     table {border-collapse: collapse;}
     
-    caption {margin-bottom: 5px; color:#F9F5EB;}
+    caption {margin-bottom: 5px; color:black;}
     
-    tr:nth-child(odd){background-color: #F9F5EB;}
+    tr:nth-child(odd){background-color: #d6dbdf;}
     
     @media screen and (min-width: 680px) {
       #leftsidebar {width: 200px; float: left;}
