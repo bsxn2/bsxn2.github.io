@@ -28,6 +28,7 @@
     table, th, td {
         border: 3px solid #C0392B;
         padding: 5px;
+        padding-bottom: 10px;
         text-align: center;
         color:#C0392B;}
     
