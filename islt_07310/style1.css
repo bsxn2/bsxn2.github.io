@@ -3,7 +3,7 @@
     
     body{background-color: #F4F6F6; font-size:20px;}
 
-    .aboutPage, .indexPage, .reflectionPage, .contactPage {flex-direction: column; margin-left: 100px; margin-right: 100px;}
+    .aboutPage, .indexPage, .reflectionPage, .contactPage {  display: inline-block; align-items: center;justify-content: center; flex-direction: column; margin-left: 100px; margin-right: 100px;}
 
     .container{ display: flex; flex-wrap: wrap; padding: 15px;margin: 5px;}
 
@@ -40,11 +40,6 @@
     
     tr:nth-child(odd){background-color: #d6dbdf;}
     
-
-    .contact1page{padding: 15px;
-        justify-content: space-evenly;
-        align-items: center;}
-
 
     @media screen and (min-width: 680px) {
       #leftsidebar {width: 200px; float: left;}
