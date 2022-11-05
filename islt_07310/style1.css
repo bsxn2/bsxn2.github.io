@@ -14,7 +14,14 @@
 
     .indexpage1{ display: flex; flex-wrap: wrap; padding: 15px; margin: 5px;}
 
+    .aboutpage1{ }
+
+    .resumevideo{ align-items: center;}
+
     .contactpage1{ }
+
+
+
     
     footer{padding: 6px; padding-top: 60px; font: 3px; background-image: url(https://collegerealitycheck.com/wp-content/uploads/University-of-Missouri-0108-1024x768.jpg);
     background-position:center; background-repeat: no-repeat; background-size: cover; opacity: 0.5; background-color: #d6dbdf; height: 10%;}
