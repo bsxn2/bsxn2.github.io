@@ -1,6 +1,6 @@
-    h1{text-align:center; color:#C0392B;
-    padding-top:70px;font-size: 50px;}
     
+    h1{text-align:center; color:#C0392B;
+        padding-top:70px;font-size: 50px;}
     body{background-color: #F4F6F6; font-size:20px;}
 
     .about1Page .index1Page .reflection1Page .contact1Page .learn1page {  display: inline-block; align-items: center;justify-content: center; flex-direction: column; margin-left: 100px; margin-right: 100px;}
@@ -18,7 +18,9 @@
 
     .resumevideo{ align-items: center;}
 
-    .signuppic{ height: 15%; width: 15%; padding: 30px;}
+    .learn1page{ padding: 50px;}
+
+    .signuppic{ height: 30%; width: 30%; padding: 60px;}
 
     .subcontainer-contactpage1{ align-items: center; padding:25px;}
 
