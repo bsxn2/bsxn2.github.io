@@ -3,7 +3,7 @@
     
     body{background-color: #F4F6F6; font-size:20px;}
 
-    .aboutPage, .indexPage, .reflectionPage, .contactPage {  display: inline-block; align-items: center;justify-content: center; flex-direction: column; margin-left: 100px; margin-right: 100px;}
+    .about1Page .index1Page .reflection1Page .contact1Page .learn1page {  display: inline-block; align-items: center;justify-content: center; flex-direction: column; margin-left: 100px; margin-right: 100px;}
 
     /*general flexbox styling*/
     .container{ display: flex; flex-wrap: wrap; padding: 15px;margin: 5px;}
@@ -14,9 +14,11 @@
 
     .indexpage1{ display: flex; flex-wrap: wrap; padding: 15px; margin: 5px;}
 
-    .aboutpage1{ }
+    .aboutpage1{display: flex; flex-wrap: wrap; padding: 15px; margin: 5px;}
 
     .resumevideo{ align-items: center;}
+
+    .signuppic{ height: 15%; width: 15%; padding: 30px;}
 
     .subcontainer-contactpage1{ align-items: center; padding:25px;}
 
