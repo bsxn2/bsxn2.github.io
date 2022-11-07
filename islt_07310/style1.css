@@ -20,7 +20,7 @@
 
     .learn1page{ padding: 50px;}
 
-    .subcontainer-module1body{ padding: 80px;}
+    .subcontainer-module1body .subcontainer-module2body .subcontainer-module3body { padding: 80px;}
 
     .addstudentspic{ height: 30%; width:30px; padding:60px;}
 
